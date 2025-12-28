@@ -14,7 +14,7 @@
 - **🎣 React Hook Form** - Performant forms with easy validation
 - **✅ Zod** - TypeScript-first schema validation
 
-### 🔄 State Management & Data Fetching
+### 🔄 State Management 
 - **🐻 Zustand** - Simple, scalable state management
 - **🔄 TanStack Query** - Powerful data synchronization for React
 - **🌐 Fetch** - Promise-based HTTP request
